@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "target": "ES6",
+      "module": "ESNext",
+      "strict": true,
+      "esModuleInterop": true,
+      "outDir": "./dr",
+      "lib": ["DOM", "ES6"]
+    },
+    "include": ["**/*.ts"],
+    "exclude": ["node_modules"]
+  }
