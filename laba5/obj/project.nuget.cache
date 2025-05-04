@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vHQcWn8PpDA=",
+  "success": true,
+  "projectFilePath": "D:\\study\\fp\\laba5\\MathApp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\fsharp.core\\8.0.403\\fsharp.core.8.0.403.nupkg.sha512"
+  ],
+  "logs": []
+}
